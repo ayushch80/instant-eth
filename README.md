@@ -1,5 +1,17 @@
 # instant-eth
-Instantly send ETH from many accounts to requested address.
+RECIEVE ETH FROM MANY ACCOUNTS AT SAME ACCOUNT AT SAME TIME
 
+# installation-linux
+Install `NODE JS` on your device `apt get nodejs`
 
-Average time for sending = Time taken by block to be mined + nearly 17 seconds.
+Clone this repository `git clone https://github.com/ayushch80/instant-eth`
+
+Open directory in terminal and install ethers-js `npm -i ethers`
+
+Run bot.js `node bot`
+
+# installation-windows
+Install `NODE JS` from `https://nodejs.org/en/download/current/`
+
+Open `NODE JS` terminal and install ethers-js `npm -i ethers`
+
