@@ -5,9 +5,9 @@ const privateKeys = ["SENDER'S_PRIVATE_KEY",
   "SENDER'S_PRIVATE_KEY",
   "SENDER'S_PRIVATE_KEY",
   "SENDER'S_PRIVATE_KEY"];
+    console.log("Made by @rodrigoherrerai Modified by @ayushch80");
 const bot = async () => {
   provider.on("block", async () => {
-    console.log("Made by @ayushch80 with help of @rodrigoherrerai")
     console.log("Listening new block, waiting...");
     for (let i = 0; i < privateKeys.length; i++) {
       const _target = new ethers.Wallet(privateKeys[i]);
@@ -25,7 +25,7 @@ const bot = async () => {
           console.log(`Successfully transfered --> ${ethers.utils.formatEther(balance)}`);
         }
         catch (e) {
-            console.log(`Oh no! thats ERROR : ${e}`);
+            console.log(`Oh no! thats an ERROR : ${e}`);
         }
       }
     }
