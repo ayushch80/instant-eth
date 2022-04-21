@@ -10,8 +10,4 @@ Open directory in terminal and install ethers-js `npm i ethers`
 
 Run bot.js `node bot`
 
-# installation-windows
-Install `NODE JS` from `https://nodejs.org/en/download/current/`
-
-Open `NODE JS` terminal and install ethers-js `npm i ethers`
 
