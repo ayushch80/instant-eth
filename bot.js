@@ -22,7 +22,8 @@ const bot = async () => {
             to: addressReceiver,
             value: amount
           });
-          console.log(`Successfully transfered --> ${ethers.utils.formatEther(balance)}`);
+          const amount_r = amount / 1000000000000000000
+          console.log(`Successfully transfered --> ` + amount_r);
         }
         catch (e) {
             console.log(`Oh no! thats an ERROR : ${e}`);
