@@ -24,34 +24,26 @@ COMING SOON...
 ## USABLE JSON-RPC URLs
 
 ### ETHEREUM
-ETHEREUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet`
-
-ETHEREUM ROPSTEN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/ropsten`
-
-ETHEREUM GOERLI -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/goerli`
-
-ETHEREUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/rinkeby`
-
+ETHEREUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet`<br>
+ETHEREUM ROPSTEN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/ropsten`<br>
+ETHEREUM GOERLI -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/goerli`<br>
+ETHEREUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/rinkeby`<br>
 ETHEREUM KOVAN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/kovan`
 
 ### BINANCE SMART CHAIN
-BSC MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/mainnet`
-
+BSC MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/mainnet`<br>
 BSC TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/testnet`
 
 ### POLYGON
-POLYGON MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mainnet`
-
+POLYGON MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mainnet`<br>
 POLYGON MUMBAI TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mumbai`
 
 ### ARBITRUM
-ARBITRUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/mainnet`
-
+ARBITRUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/mainnet`<br>
 ARBITRUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/testnet`
 
 ### AVALANCHE
-AVALANCHE MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/mainnet`
-
+AVALANCHE MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/mainnet`<br>
 AVALANCHE TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/testnet`
 
 ### FANTOM
