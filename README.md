@@ -12,6 +12,9 @@ Make some changes in bot.js like `JSON_RPC_URL_HERE` to your JSON RPC URL , `YOU
 
 Run bot.js `node bot`
 
+## NO INSTALLATION (BROWSER ONLY)
+COMING SOON...
+
 ## USABLE JSON-RPC URLs
 
 ### ETHEREUM
