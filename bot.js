@@ -1,5 +1,5 @@
 const { ethers } = require("ethers");
-const provider = new ethers.providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet");
+const provider = new ethers.providers.JsonRpcProvider("JSON_RPC_URL_HERE");
 const addressReceiver = "YOUR_RECEIVING_ETHEREUM_ADDRESS";
 const privateKeys = ["SENDER'S_PRIVATE_KEY",
   "SENDER'S_PRIVATE_KEY",
