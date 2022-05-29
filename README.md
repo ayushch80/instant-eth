@@ -19,7 +19,7 @@ COMING SOON...
 
 <b>ETHEREUM</b> -- [0xD0b2d6D92F71cb1F72C61BAcDef64f33e4f1eeBb](https://etherscan.io/address/0xD0b2d6D92F71cb1F72C61BAcDef64f33e4f1eeBb)<br>
 <b>BITCOIN</b> -- [bc1ql8ks3m5f5947c24tr6jvjlejqr3s52x2kcva47](https://www.blockchain.com/btc/address/bc1ql8ks3m5f5947c24tr6jvjlejqr3s52x2kcva47)<br>
-<b>BITCOIN</b> -- [ltc1q9yhzzapj45uxgz39r59q09wsee03yt9hvlrfqp](https://blockchair.com/litecoin/address/ltc1q9yhzzapj45uxgz39r59q09wsee03yt9hvlrfqp)
+<b>LITECOIN</b> -- [ltc1q9yhzzapj45uxgz39r59q09wsee03yt9hvlrfqp](https://blockchair.com/litecoin/address/ltc1q9yhzzapj45uxgz39r59q09wsee03yt9hvlrfqp)
 
 ## USABLE JSON-RPC URLs
 
