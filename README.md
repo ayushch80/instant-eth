@@ -23,28 +23,35 @@ COMING SOON...
 
 ## USABLE JSON-RPC URLs
 
-### ETHEREUM
+### MORALIS SPEEDY NODES 
+
+#### (0.5M/10M requests left for this month)
+
+#### ETHEREUM
 ETHEREUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet`<br>
 ETHEREUM ROPSTEN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/ropsten`<br>
 ETHEREUM GOERLI -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/goerli`<br>
 ETHEREUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/rinkeby`<br>
 ETHEREUM KOVAN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/kovan`
 
-### BINANCE SMART CHAIN
+#### BINANCE SMART CHAIN
 BSC MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/mainnet`<br>
 BSC TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/testnet`
 
-### POLYGON
+#### POLYGON
 POLYGON MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mainnet`<br>
 POLYGON MUMBAI TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mumbai`
 
-### ARBITRUM
+#### ARBITRUM
 ARBITRUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/mainnet`<br>
 ARBITRUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/testnet`
 
-### AVALANCHE
+#### AVALANCHE
 AVALANCHE MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/mainnet`<br>
 AVALANCHE TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/testnet`
 
-### FANTOM
+#### FANTOM
 FANTOM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/fantom/mainnet`
+
+#### CRONOS
+CRONOS MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/cronos/mainnet`
