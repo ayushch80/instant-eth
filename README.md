@@ -23,9 +23,9 @@ COMING SOON...
 
 ## USABLE JSON-RPC URLs
 
-### MORALIS SPEEDY NODES 
+### ✨MORALIS SPEEDY NODES 
 
-#### (0.5M/10M requests left for this month)
+#### 👀(0.5M/10M requests left for this month)👀
 
 #### ETHEREUM
 ETHEREUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet`<br>
@@ -55,3 +55,24 @@ FANTOM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/
 
 #### CRONOS
 CRONOS MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/cronos/mainnet`
+
+### ✨INFURA
+
+#### ETHEREUM
+ETHEREUM MAINNET -- `https://mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+ETHEREUM ROPSTEN -- `https://ropsten.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+ETHEREUM KOVAN -- `https://kovan.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+ETHEREUM RINKEBY -- `https://rinkeby.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+ETHEREUM GORELI -- `https://goerli.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+
+#### PALM
+PALM MAINNET -- `https://palm-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+PALM TESTNET -- `https://palm-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+
+#### AURORA
+AURORA MAINNET -- `https://aurora-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+AURORA TESTNET -- `https://aurora-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+
+#### NEAR
+NEAR MAINNET -- `https://near-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
+NEAR TESTNET -- `https://near-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
