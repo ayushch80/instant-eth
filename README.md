@@ -34,7 +34,7 @@ ETHEREUM GOERLI -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b
 ETHEREUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/rinkeby`<br>
 ETHEREUM KOVAN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/kovan`
 
-#### BINANCE SMART CHAIN
+#### BINANCE SMART CHAIN (BSC)
 BSC MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/mainnet`<br>
 BSC TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/testnet`
 
@@ -76,3 +76,37 @@ AURORA TESTNET -- `https://aurora-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a
 #### NEAR
 NEAR MAINNET -- `https://near-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
 NEAR TESTNET -- `https://near-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+
+### ✨ANKR
+
+#### ETHEREUM
+ETHEREUM MAINNET -- `https://rpc.ankr.com/eth`<br>
+ETHEREUM ROPSTEN -- `https://rpc.ankr.com/eth_ropsten`<br>
+ETHEREUM RINKEBY -- `https://rpc.ankr.com/eth_rinkeby`<br>
+ETHEREUM GOERLI -- `https://rpc.ankr.com/eth_goerli`
+
+#### BINANCE SMART CHAIN (BSC)
+BSC MAINNET -- `https://rpc.ankr.com/bsc`
+
+#### POLYGON
+POLYGON MAINNET -- `https://rpc.ankr.com/polygon`
+
+#### ABRITRUM
+ARBITRUM MAINNET -- `https://rpc.ankr.com/arbitrum`
+
+#### AVALANCHE
+AVALANCHE MAINNET -- `https://rpc.ankr.com/avalanche`<br>
+AVALANCHE TESTNET -- `https://rpc.ankr.com/avalanche_fuji`
+
+#### CELO
+CELO MAINNET -- `https://rpc.ankr.com/celo`
+
+#### FANTOM
+FANTOM MAINNET -- `https://rpc.ankr.com/fantom`<br>
+FANTOM TESTNET -- `https://rpc.ankr.com/fantom_testnet`
+
+#### GNOSIS
+GNOSIS MAINNET -- `https://rpc.ankr.com/gnosis`
+
+#### HARMONY
+HARMONY MAINNET -- `https://rpc.ankr.com/harmony`
