@@ -73,10 +73,6 @@ PALM TESTNET -- `https://palm-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a0666
 AURORA MAINNET -- `https://aurora-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
 AURORA TESTNET -- `https://aurora-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
 
-#### NEAR
-NEAR MAINNET -- `https://near-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-NEAR TESTNET -- `https://near-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
-
 ### ✨ANKR
 
 #### ETHEREUM
