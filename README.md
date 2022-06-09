@@ -8,7 +8,7 @@ Clone this repository `git clone https://github.com/ayushch80/instant-eth`
 
 Open directory in terminal and install ethers-js `npm i ethers`
 
-Make some changes in bot.js like `JSON_RPC_URL_HERE` to your JSON RPC URL , `YOUR_RECEIVING_ETHEREUM_ADDRESS` to your receiving address in Ethereum BlockChain , `SENDER'S_PRIVATE_KEY` to private keys from which you want ETH and `MINIMUM_AMOUNT_OF_ETH` to minimum amount of ETH you want from your specified private keys
+Make some changes in `.env` like `JSON_RPC_URL_HERE` to your JSON RPC URL , `YOUR_RECEIVING_ETHEREUM_ADDRESS` to your receiving address in Ethereum BlockChain , `SENDER'S_PRIVATE_KEY` to private keys from which you want ETH and `MINIMUM_AMOUNT_OF_ETH` to minimum amount of ETH you want from your specified private keys
 
 Run bot.js `node bot`
 
