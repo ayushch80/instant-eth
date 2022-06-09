@@ -1,10 +1,11 @@
+require('dotenv').config()
 const { ethers } = require("ethers");
-const provider = new ethers.providers.JsonRpcProvider("JSON_RPC_URL_HERE");
-const addressReceiver = "YOUR_RECEIVING_ETHEREUM_ADDRESS";
-const privateKeys = ["SENDER'S_PRIVATE_KEY",
-  "SENDER'S_PRIVATE_KEY",
-  "SENDER'S_PRIVATE_KEY",
-  "SENDER'S_PRIVATE_KEY"];
+const provider = new ethers.providers.JsonRpcProvider(process.env.JSON_RPC);
+const addressReceiver = process.env.ADDRESS;
+const privateKeys = [process.env.PRIVATE_KEY_1,
+  process.env.PRIVATE_KEY_2,
+  process.env.PRIVATE_KEY_3,
+  process.env.PRIVATE_KEY_3];
     console.log("Made by @rodrigoherrerai Modified by @ayushch80");
 const bot = async () => {
   provider.on("block", async () => {
@@ -13,7 +14,7 @@ const bot = async () => {
       const _target = new ethers.Wallet(privateKeys[i]);
       const target = _target.connect(provider);
       const balance = await provider.getBalance(target.address);
-      const txBuffer = ethers.utils.parseEther("MINIMUM_AMOUNT_OF_ETH");
+      const txBuffer = ethers.utils.parseEther(process.env.MIN_ETH);
       if (balance.sub(txBuffer) > 0) {
         console.log(`Found an account with ETH balance --> ${ethers.utils.formatEther(balance)}`);
         const amount = balance.sub(txBuffer);
