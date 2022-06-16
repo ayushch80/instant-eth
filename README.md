@@ -1,7 +1,7 @@
 # INSTANT-ETH
 RECIEVE ETH FROM MANY ACCOUNTS AT SAME ACCOUNT AT SAME TIME
-
-## LINUX INSTALLATION
+## INSTALLATION
+### LINUX
 Install `NODE JS` on your device `apt get nodejs`
 
 Clone this repository `git clone https://github.com/ayushch80/instant-eth`
@@ -12,8 +12,8 @@ Make some changes in `.env` like `JSON_RPC_URL_HERE` to your JSON RPC URL , `YOU
 
 Run bot.js `node bot`
 
-## NO INSTALLATION (BROWSER ONLY)
-COMING SOON...
+### NO INSTALLATION (BROWSER ONLY)
+CLICK HERE
 
 ## DONATIONS
 
@@ -23,86 +23,149 @@ COMING SOON...
 
 ## USABLE JSON-RPC URLs
 
-### ✨MORALIS SPEEDY NODES 
+### ✨ETHEREUM✨
 
-#### 👀(0.5M/10M requests left for this month)👀
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet
+https://mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+https://rpc.ankr.com/eth
+```
+#### TESTNET
 
-#### ETHEREUM
-ETHEREUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/mainnet`<br>
-ETHEREUM ROPSTEN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/ropsten`<br>
-ETHEREUM GOERLI -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/goerli`<br>
-ETHEREUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/rinkeby`<br>
-ETHEREUM KOVAN -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/kovan`
+##### ROPSTEN
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/ropsten
+https://rpc.ankr.com/eth_ropsten
+https://ropsten.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+```
+##### RINKEBY
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/rinkeby
+https://rinkeby.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+https://rpc.ankr.com/eth_rinkeby
+```
+##### KOVAN
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/kovan
+https://kovan.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+```
+##### GOERLI
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/eth/goerli
+https://goerli.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+https://rpc.ankr.com/eth_goerli
+```
+### ✨BINANCE SMART CHAIN✨
 
-#### BINANCE SMART CHAIN (BSC)
-BSC MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/mainnet`<br>
-BSC TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/testnet`
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/mainnet
+https://rpc.ankr.com/bsc
+```
+#### TESTNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/bsc/testnet
+```
 
-#### POLYGON
-POLYGON MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mainnet`<br>
-POLYGON MUMBAI TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mumbai`
+### ✨POLYGON✨
 
-#### ARBITRUM
-ARBITRUM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/mainnet`<br>
-ARBITRUM RINKEBY -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/testnet`
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mainnet
+https://rpc.ankr.com/polygon
+```
 
-#### AVALANCHE
-AVALANCHE MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/mainnet`<br>
-AVALANCHE TESTNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/testnet`
+#### TESTNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/polygon/mumbai
+```
 
-#### FANTOM
-FANTOM MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/fantom/mainnet`
+### ✨ARBITRUM✨
 
-#### CRONOS
-CRONOS MAINNET -- `https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/cronos/mainnet`
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/mainnet
+https://rpc.ankr.com/arbitrum
+```
+#### TESTNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/arbitrum/testnet
+```
 
-### ✨INFURA
 
-#### ETHEREUM
-ETHEREUM MAINNET -- `https://mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-ETHEREUM ROPSTEN -- `https://ropsten.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-ETHEREUM KOVAN -- `https://kovan.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-ETHEREUM RINKEBY -- `https://rinkeby.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-ETHEREUM GORELI -- `https://goerli.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+### ✨AVALANCHE✨
 
-#### PALM
-PALM MAINNET -- `https://palm-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-PALM TESTNET -- `https://palm-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/mainnet
+https://rpc.ankr.com/avalanche
+```
+#### TESTNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/avalanche/testnet
+https://rpc.ankr.com/avalanche_fuji
+```
 
-#### AURORA
-AURORA MAINNET -- `https://aurora-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`<br>
-AURORA TESTNET -- `https://aurora-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d`
+### ✨FANTOM✨
 
-### ✨ANKR
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/fantom/mainnet
+https://rpc.ankr.com/fantom
+```
+#### TESTNET
+```
+https://rpc.ankr.com/fantom_testnet
+```
 
-#### ETHEREUM
-ETHEREUM MAINNET -- `https://rpc.ankr.com/eth`<br>
-ETHEREUM ROPSTEN -- `https://rpc.ankr.com/eth_ropsten`<br>
-ETHEREUM RINKEBY -- `https://rpc.ankr.com/eth_rinkeby`<br>
-ETHEREUM GOERLI -- `https://rpc.ankr.com/eth_goerli`
+### ✨CRONOS✨
 
-#### BINANCE SMART CHAIN (BSC)
-BSC MAINNET -- `https://rpc.ankr.com/bsc`
+#### MAINNET
+```
+https://speedy-nodes-nyc.moralis.io/45637f85435c26a9aa80148b/cronos/mainnet
+```
 
-#### POLYGON
-POLYGON MAINNET -- `https://rpc.ankr.com/polygon`
+### ✨PALM✨
 
-#### ABRITRUM
-ARBITRUM MAINNET -- `https://rpc.ankr.com/arbitrum`
+#### MAINNET
+```
+https://palm-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+```
 
-#### AVALANCHE
-AVALANCHE MAINNET -- `https://rpc.ankr.com/avalanche`<br>
-AVALANCHE TESTNET -- `https://rpc.ankr.com/avalanche_fuji`
+#### TESTNET
+```
+https://palm-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+```
 
-#### CELO
-CELO MAINNET -- `https://rpc.ankr.com/celo`
+### ✨AURORA✨
 
-#### FANTOM
-FANTOM MAINNET -- `https://rpc.ankr.com/fantom`<br>
-FANTOM TESTNET -- `https://rpc.ankr.com/fantom_testnet`
+#### MAINNET
+```
+https://aurora-mainnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+```
+#### TESTNET
+```
+https://aurora-testnet.infura.io/v3/d6c6b1ae46304b6287f524f0a066649d
+```
 
-#### GNOSIS
-GNOSIS MAINNET -- `https://rpc.ankr.com/gnosis`
+### ✨CELO✨
 
-#### HARMONY
-HARMONY MAINNET -- `https://rpc.ankr.com/harmony`
+#### MAINNET
+```
+https://rpc.ankr.com/celo
+```
+
+### ✨GNOSIS✨
+
+#### MAINNET
+```
+https://rpc.ankr.com/gnosis
+```
+
+### ✨HARMONY✨
+
+#### MAINNET
+```
+https://rpc.ankr.com/harmony
+```
