@@ -13,7 +13,7 @@ Make some changes in `.env` like `JSON_RPC_URL_HERE` to your JSON RPC URL , `YOU
 Run bot.js `node bot`
 
 ### NO INSTALLATION (BROWSER ONLY)
-CLICK HERE
+CLICK [HERE](https://github.com/ayushch80/instant-eth/blob/main/html/README.md)
 
 ## DONATIONS
 
