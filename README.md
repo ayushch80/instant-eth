@@ -169,3 +169,6 @@ https://rpc.ankr.com/gnosis
 ```
 https://rpc.ankr.com/harmony
 ```
+### 💻CONTRIBUTORS💻
+<b>[RODRIGO HERRARA ITIE](https://github.com/rodrigoherrerai)</b> Who wrote all the code<br>
+<b>[AYUSHCH80](https://github.com/ayushch80)</b> Made Repo for code and made some small changes
