@@ -4,7 +4,7 @@ RECIEVE ETH FROM MANY ACCOUNTS AT SAME ACCOUNT AT SAME TIME
 ### LINUX
 Install `NODE JS` on your device `apt get nodejs`
 
-Clone this repository `git clone https://github.com/ayushch80/instant-eth`
+Clone this repository `git clone https://github.com/ayushch80/instant-eth.git`
 
 Open directory in terminal and install ethers-js `npm i ethers`
 
