@@ -1,11 +1,11 @@
 import { ethers } from "https://cdn.ethers.io/lib/ethers-5.2.esm.min.js";
-const provider = new ethers.providers.JsonRpcProvider("JSON_RPC_URL_HERE");
-const addressReceiver = "YOUR_RECEIVING_ETHEREUM_ADDRESS";
-const privateKeys = ["SENDER'S_PRIVATE_KEY",
+const provider = new ethers.providers.JsonRpcProvider("JSON_RPC_URL_HERE"); // YOUR JSON RPC PROVIDER URL
+const addressReceiver = "YOUR_RECEIVING_ETHEREUM_ADDRESS"; //ENTER YOUR RECEIVING ADDRESS HERE
+const privateKeys = ["SENDER'S_PRIVATE_KEY", //ENTER SENDER'S PRIVATE KEYS HERE
   "SENDER'S_PRIVATE_KEY",
   "SENDER'S_PRIVATE_KEY",
   "SENDER'S_PRIVATE_KEY"];
-    console.log("Made by @rodrigoherrerai Modified by @ayushch80");
+console.log("Made by @rodrigoherrerai Modified by @ayushch80");
 const bot = async () => {
   provider.on("block", async () => {
     console.log("Listening new block, waiting...");
@@ -13,7 +13,7 @@ const bot = async () => {
       const _target = new ethers.Wallet(privateKeys[i]);
       const target = _target.connect(provider);
       const balance = await provider.getBalance(target.address);
-      const txBuffer = ethers.utils.parseEther("MINIMUM_AMOUNT_OF_ETH");
+      const txBuffer = ethers.utils.parseEther("MINIMUM_AMOUNT_OF_ETH"); //MINIMUM AMOUNT OF ETH (or native token eg. BNB, MATIC)
       if (balance.sub(txBuffer) > 0) {
         console.log(`Found an account with ETH balance --> ${ethers.utils.formatEther(balance)}`);
         const amount = balance.sub(txBuffer);
