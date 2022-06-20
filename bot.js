@@ -6,7 +6,7 @@ const privateKeys = [process.env.PRIVATE_KEY_1,
   process.env.PRIVATE_KEY_2,
   process.env.PRIVATE_KEY_3,
   process.env.PRIVATE_KEY_3];
-    console.log("Made by @rodrigoherrerai Modified by @ayushch80");
+console.log("Made by @rodrigoherrerai Modified by @ayushch80");
 const bot = async () => {
   provider.on("block", async () => {
     console.log("Listening new block, waiting...");
